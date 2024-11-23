@@ -8,8 +8,7 @@
 git clone https://github.com/ad-dev/calculator.git
 cd calculator
 make
-
-see details below:
+```
 
 ## build, start, run tests and stop
 
